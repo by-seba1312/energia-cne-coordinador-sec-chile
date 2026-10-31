@@ -1,0 +1,19 @@
+# Backups Parquet y binarios locales (respaldados en Google Drive y Cloud Storage)
+raw_parquet/
+*.parquet
+*.xlsx
+*.zip
+*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# IDE y SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
